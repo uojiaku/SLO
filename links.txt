@@ -1,0 +1,8 @@
+
+https://www.techbeatly.com/2020/03/install-grafana-operator-on-openshift-container-platform-4.html#.Xw8UCZNKhb9
+
+https://github.com/bitnami-labs/kubernetes-grafana-dashboards/tree/master/jsonnet/golden
+
+https://engineering.bitnami.com/articles/implementing-slos-using-prometheus.html
+
+https://www.openshift.com/blog/kubernetes-deep-dive-api-server-part-1
